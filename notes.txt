@@ -1,0 +1,15 @@
+NOTES
+
+Lesson 1
+- what is react-dom
+- what does npm -- save do
+- regex in webpack filename
+- npm run
+- review arrow syntax
+- stateful vs pure components
+
+Lesson 2
+- imperative vs declarative programming
+	- imperative - actions that affect state happening sequentially in time
+	- declarative - multiple states that exist without time
+	- React.PropTypes??
